@@ -1,4 +1,4 @@
-This project was created to understand different kind of sort methods in javaScript.
+This project was created to understand different kind of sort methods in JavaScript.
 Every file contains a different method.
 My idea is only to provide a way to implement each of the existing methods. It was never intended as the best of an implementation.
 
